@@ -5,7 +5,7 @@ Projetinho de DevLinks (Estilo aquelas bio do Insta) feito no cursinho da Rocket
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
